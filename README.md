@@ -10,3 +10,8 @@ git clone https://github.com/StephenGrider/WebpackProject.git
 cd WebpackProject
 npm install
 ```
+
+## App served in:
+
+- github pages: https://moiguitarrock.github.io/webpackSampleDeploy/#/
+- surge: http://bawdy-clock.surge.sh/#/
